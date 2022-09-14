@@ -1,0 +1,17 @@
+
+
+    body{background-color: #110d52;
+        background-image: linear-gradient(225deg, #110d52 1%, #000000 55%, #0a1845 100%);
+        
+    }
+.titulo {
+    text-align: center;
+    vertical-align: middle;
+    font-size: 70px;
+    font-style: oblique;
+    color: aliceblue;
+}
+
+h2 {
+    color: aliceblue;
+}
